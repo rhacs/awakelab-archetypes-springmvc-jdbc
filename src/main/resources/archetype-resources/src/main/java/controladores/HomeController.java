@@ -32,7 +32,7 @@ public class HomeController {
     @GetMapping
     public String paginaInicio(HttpServletRequest request) {
         // Depuración
-        logger.info("Solicitud GET: {}", request.getRequestURI());
+        logger.info("Solicitud {}: {}", request.getMethod(), request.getRequestURI());
 
         // Mostrar página
         return "home";
