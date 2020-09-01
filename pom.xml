@@ -12,7 +12,7 @@
 
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/rhacs/awakelab-archetypes-springmvc-jdbc</url>
-    <description>Arquetipo para la creación de proyectos bajo Spring Framework MVC y JDBC Template con implementaciones básicas. Incluye: Spring Framework 5.2.8.RELEASE, Spring Data JDBC 2.0.3.RELEASE, Java Servlet API 4.0.1, JSP API 2.3.3, JSTL API 1.2, JUnit 5.6.2</description>
+    <description>Arquetipo para la creación de proyectos bajo Spring Framework MVC y JDBC Template con implementaciones básicas. Incluye: Spring Framework 5.2.8.RELEASE, Java Servlet API 4.0.1, JSP API 2.3.3, JSTL API 1.2, JUnit 5.6.2</description>
 
     <licenses>
         <license>
