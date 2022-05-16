@@ -32,7 +32,7 @@
         <org.springframework-version>5.3.20</org.springframework-version>
 
         <!-- Jackson -->
-        <com.fasterxml.jackson.core-version>2.13.2.1</com.fasterxml.jackson.core-version>
+        <com.fasterxml.jackson.core-version>2.13.3</com.fasterxml.jackson.core-version>
 
         <!-- Jayway JsonPath -->
         <com.jayway.jsonpath-version>2.7.0</com.jayway.jsonpath-version>
