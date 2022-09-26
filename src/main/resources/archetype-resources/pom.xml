@@ -41,7 +41,7 @@
         <org.apache.logging.log4j-version>2.19.0</org.apache.logging.log4j-version>
 
         <!-- JUnit Jupiter -->
-        <org.junit.jupiter-version>5.9.0</org.junit.jupiter-version>
+        <org.junit.jupiter-version>5.9.1</org.junit.jupiter-version>
 
         <!-- Hamcrest -->
         <org.hamcrest-version>2.2</org.hamcrest-version>
